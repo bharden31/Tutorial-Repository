@@ -1,3 +1,5 @@
 :: A file with some experimental content
 
 echo HCl + NaOH = NaOH + H20
+
+echo 2H2 + O2 = 2H2O
